@@ -209,3 +209,4 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,pythonds001787-download/
+meditation_analysis_output/dashboard/*.html
