@@ -1,6 +1,11 @@
 # Meditation EEG Analysis Suite
 
-A comprehensive set of analytical tools for studying brain activity during meditation, focusing on the neural correlates of concentration and mind wandering.
+A comprehensive set of analytical tools for studying brain activity during meditation, focusing on the neural correlates of concentration and mind wandering. Please note that the dataset and dashboard are not in this code but can be found here: https://openneuro.org/datasets/ds001787/versions/1.1.1
+
+and here:
+https://gofile.io/d/u7wWRX
+
+respectively.
 
 ## Overview
 
